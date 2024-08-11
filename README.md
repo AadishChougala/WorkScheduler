@@ -1,1 +1,1 @@
-# Schedulizr
+# WorkScheduler
